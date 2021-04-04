@@ -1,0 +1,20 @@
+﻿[
+  {
+    "Name": "iPhone 12",
+    "Description": "Apple'ın 2020 Flagship telefonu",
+    "Price": 10000,
+    "UnitInStock": 25
+  },
+  {
+    "Name": "Playstation 5",
+    "Description": "Sony tarafından üretilen yeni oyun konsolu",
+    "Price": 7500,
+    "UnitInStock": 0
+  },
+  {
+    "Name": "Dell XPS 15",
+    "Description": "Piyasadaki üst düzey laptoplardan biri",
+    "Price": 20000,
+    "UnitInStock": 8
+  }
+]
